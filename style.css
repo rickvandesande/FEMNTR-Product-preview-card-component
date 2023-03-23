@@ -54,6 +54,7 @@ h2{
 }
 .product-description{
     color: var(--secondary-gray-blue);
+    line-height: 1.5rem;
 }
 .price{
     display: flex;
